@@ -1,5 +1,5 @@
 # MEAL SUIT
-Meal suit Assignment
+Meal suit Assignment(only Back-end)
 ## Usage
 
 - Database: PostgreSql
