@@ -35,6 +35,8 @@ Meal suit Assignment
 
 ## Best practices
   - [X] Coverage: over 80%
+  - <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22610127/162117717-df0078c5-59a2-46f1-9ef9-1a6ea25cc678.png">
+
   - [X] Rubocop
   - [X] Unit Test
  ## Total spend time
