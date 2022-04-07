@@ -1,0 +1,18 @@
+default: &default
+  adapter:  postgresql
+  encoding: unicode
+  host:     localhost
+  username: postgres
+  password: root
+
+development:
+  <<: *default
+  database: meal_suite
+
+test:
+  <<: *default
+  database: meal_suite_test
+
+production:
+  <<: *default
+  database: <%= ENV['DATABASE_URL'] %>
