@@ -12,6 +12,7 @@ Meal suit Assignment
 - [X] Upload Photo and store it in local storage
 - [X] Pagination Photo, Gallery, Comment, Tag
 - [X] Sort Photo, Gallery, Comment, Tag
+- [X] Get Photos, Galleries by Tag
 - [X] Versioning API
 
 3. API
